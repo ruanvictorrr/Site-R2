@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+
+node_modules/
+.env
+*.log
+
+*.png.bak
+Captura de Tela*
+Captura_de_Tela*
+
+antigo/*
